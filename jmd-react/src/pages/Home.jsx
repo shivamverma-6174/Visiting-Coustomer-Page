@@ -57,6 +57,7 @@ const Home = () => {
         </p>
         <div className="video-container">
           {/* Embedding Instagram Reel */}
+          
           <iframe 
             src="https://www.instagram.com/p/DXobtwOEvrK/embed" 
             allowTransparency="true" 
