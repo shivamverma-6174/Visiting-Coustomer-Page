@@ -97,7 +97,9 @@ const GALLERY = [
 
 // ── Main App ────────────────────────────────────────────────
 export default function App() {
+  
   const [currentSlide, setCurrentSlide] = useState(0);
+  
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const [visibleCards, setVisibleCards] = useState(new Set());
