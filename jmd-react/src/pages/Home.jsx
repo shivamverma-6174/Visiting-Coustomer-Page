@@ -49,6 +49,7 @@ const Home = () => {
       </section>
 
       {/* Video Section */}
+      
       <section className="video-section">
         <h2 className="section-title" style={{color: 'white'}}>Hamari Gadiyan (Our Setups)</h2>
         <p style={{marginBottom: '30px', fontSize: '1.2rem', color: '#ccc'}}>
